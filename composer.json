@@ -30,7 +30,7 @@
     "require": {
         "php": ">=7.3",
         "yiisoft/yii2": "^2.0",
-        "nnnick/chartjs": "^2.9"
+        "npm-asset/chart.js": "^3.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
